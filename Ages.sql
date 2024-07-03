@@ -1,0 +1,12 @@
+BEGIN TRANSACTION;
+CREATE TABLE IF NOT EXISTS "Ages" (
+	"name"	VARCHAR(128),
+	"age"	INTEGER
+);
+INSERT INTO "Ages" VALUES ('Jia',34);
+INSERT INTO "Ages" VALUES ('Sorley',27);
+INSERT INTO "Ages" VALUES ('Kayley',32);
+INSERT INTO "Ages" VALUES ('Shay',29);
+INSERT INTO "Ages" VALUES ('Aamirah',39);
+INSERT INTO "Ages" VALUES ('Braden',22);
+COMMIT;

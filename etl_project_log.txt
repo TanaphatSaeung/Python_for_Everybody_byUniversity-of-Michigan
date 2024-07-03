@@ -1,0 +1,12 @@
+2024-Jun-12-13:26:38 : Extract phase End
+2024-Jun-12-13:26:38 : Extact phase Strated
+2024-Jun-12-13:26:41 : Extract phase End
+2024-Jun-12-13:26:41 : Transform phase Started
+2024-Jun-12-13:26:41 : Transform phase Ended
+2024-Jun-12-13:26:41 : Load phase Stated
+2024-Jun-12-13:26:41 : Load phase Ended
+2024-Jun-12-13:26:41 : Starting connect SQL database
+2024-Jun-12-13:26:41 : connected SQL database
+2024-Jun-12-13:26:41 : Data loaded to Database as table. Running the query
+2024-Jun-12-13:26:41 : Use SQL command
+2024-Jun-12-13:26:41 : Process Complete.
